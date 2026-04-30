@@ -4,5 +4,5 @@
 ![JavaScript](https://shields.io)
 ![VS Code](https://shields.io)
 
-### 📊 Моя активность
+### 📊 Моя язки :)
 ![Top Languages](profile/top-langs.svg)
