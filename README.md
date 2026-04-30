@@ -1,1 +1,8 @@
-![Top Languages](./profile/top-langs.svg)
+# Привет, я Becuda 👋
+### 🛠 Мой стек
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![VS Code](https://shields.io)
+
+### 📊 Моя активность
+![Top Languages](profile/top-langs.svg)
