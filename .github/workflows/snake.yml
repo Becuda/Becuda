@@ -15,11 +15,9 @@ jobs:
 
       - uses: miccy/snake-evolution@v1
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake-ocean.svg?palette=ocean
+          user: ${{ github.repository_owner }}
+          out: dist/snake.svg
+          theme: github-dark
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
@@ -28,3 +26,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
