@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Run daily at midnight
-  workflow_dispatch:        # Allow manual run
+    - cron: "0 0 * * *" # Запуск раз в сутки
+  workflow_dispatch:     
+  push:
+    branches:
+      - main
 
 jobs:
   build:
@@ -13,11 +16,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: miccy/snake-evolution@v1
+      - uses: Platane/snk/svg-only@v3
         with:
-          user: ${{ github.repository_owner }}
-          out: dist/snake.svg
-          theme: github-dark
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
@@ -26,4 +30,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
