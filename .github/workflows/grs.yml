@@ -30,8 +30,3 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
-        
-      - name: Snake Evolution
-        uses: miccy/snake-evolution@v1.3.0
-        with:
-            github_user_name:  ${{ github.repository_owner }}
