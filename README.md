@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   </a>
 </p>
-
+<!--
 <p align="center">
   <picture>
     <source
@@ -55,7 +55,7 @@
     <img src="https://raw.githubusercontent.com/[ВАШ_НИКНЕЙМ]/[ВАШ_РЕПОЗИТОРИЙ]/output/snake.svg" alt="Snake animation" />
   </picture>
 </p>
-
+-->
 
 
 </p>
