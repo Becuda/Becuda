@@ -11,7 +11,7 @@
 <!--<h3 align="center">Мой стек технологий</h3>
 -->
 
-<p align="center">
+<!-- <p align="center">
   <em>Языки, на которых я пишу и создаю:</em>
   <br>
   <br>
@@ -48,7 +48,7 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   </a>
-</p>
+</p> -->
 <!--
 <p align="center">
   <picture>
