@@ -1,13 +1,13 @@
 
 <h1 align="center">Привет, я Becuda
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Разработчик, хоббист, и обычный парень</h3>
+<h3 align="center">программист, хоббист, и обычный парень</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=becuda&title=Experience,Commit,Repository,Followers&column=4" alt="becuda" />
   </a>
-</p>
+</p> -->
 <!--<h3 align="center">Мой стек технологий</h3>
 -->
 
@@ -55,11 +55,11 @@
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Becuda/Becuda/output/snake-dark.svg"
-    />
-    <img src="https://raw.githubusercontent.com/[ВАШ_НИКНЕЙМ]/[ВАШ_РЕПОЗИТОРИЙ]/output/snake.svg" alt="Snake animation" />
   </picture>
 </p>
 -->
-
+<p align="center">
+  <img src="profile/top-langs.svg" alt="Top Langs" />
+</p>
 
 </p>
