@@ -9,7 +9,7 @@
   </a>
 </p> -->
 <!--<h3 align="center">Мой стек технологий</h3>
--->
+
 
 <!-- <p align="center">
   <em>Языки, на которых я пишу и создаю:</em>
@@ -49,15 +49,11 @@
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   </a>
 </p> -->
-<!--
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Becuda/Becuda/output/snake-dark.svg"
-  </picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Becuda/Becuda/output/snake-dark.svg" alt="Snake animation" />
 </p>
--->
+</p>
 <p align="center">
   <img src="profile/top-langs.svg" alt="Top Langs" />
 </p>
