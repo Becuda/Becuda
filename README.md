@@ -1,8 +1,35 @@
-
-<h1 align="center">Привет, я Becuda
+<h1 align="center">Hi there, I'm Becuda!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">программист и обычный парень</h3>
+<h3 align="center">Python Developer</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Becuda/Becuda/output/snake-dark.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  I am a passionate Python developer. I enjoy solving real-world problems through code, <br>from automated data scraping to containerized microservices.
+</p>
+
+> **Currently focused on:** Backend Development (FastAPI, PostgreSQL, Asyncio) and DevOps basics.</p>
+
+> 🎯 **GOAL:** Joining a forward-thinking team as a Junior Backend Developer to build high-quality software.
+
+---
+
+## 🛠️ Tech Stack & Tools
+<ul>
+  <li>Languages: C++, Python (3.11+), SQL</li> 
+  <li>Frameworks & Libraries:** FastAPI, SQLAlchemy, Pydantic, Pytest</li> 
+  <li>Data Scraping & Automation:** BeautifulSoup, Selenium, Requests, Custom Parsers</li> 
+  <li>DevOps & Tools:** Docker, Git, GitHub</li> 
+</ul>
+
+<!--
+### 📈 GitHub Stats
+<p align="center">
+  <img src="profile/top-langs.svg" alt="Top Langs" />
+</p>
+-->
 <!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=becuda&title=Experience,Commit,Repository,Followers&column=4" alt="becuda" />
@@ -49,13 +76,3 @@
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   </a>
 </p> -->
-<p align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Becuda/Becuda/output/snake-dark.svg" alt="Snake animation" />
-</p>
-</p>
-<p align="center">
-  <img src="profile/top-langs.svg" alt="Top Langs" />
-</p>
-
-</p>
