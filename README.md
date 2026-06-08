@@ -1,7 +1,7 @@
 
 <h1 align="center">Привет, я Becuda
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">программист, хоббист, и обычный парень</h3>
+<h3 align="center">программист, и обычный парень</h3>
 
 <!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
