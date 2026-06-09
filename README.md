@@ -19,9 +19,9 @@
 ## 🛠️ Tech Stack & Tools
 <ul>
   <li>Languages: C++, Python (3.11+), SQL</li> 
-  <li>Frameworks & Libraries:** FastAPI, SQLAlchemy, Pydantic, Pytest</li> 
-  <li>Data Scraping & Automation:** BeautifulSoup, Selenium, Requests, Custom Parsers</li> 
-  <li>DevOps & Tools:** Docker, Git, GitHub</li> 
+  <li>Frameworks & Libraries: FastAPI, SQLAlchemy, Pydantic, Pytest</li> 
+  <li>Data Scraping & Automation: BeautifulSoup, Selenium, Requests, Custom Parsers</li> 
+  <li>DevOps & Tools: Docker, Git, GitHub</li> 
 </ul>
 
 <!--
